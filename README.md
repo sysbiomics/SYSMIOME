@@ -9,3 +9,4 @@ SYSMIOME amplicon management platform.
 | - | - |
 | [sysbiome-serve](https://github.com/sysbiomics/sysbiome-serve/) | SYSMIOME front-end and visualize platform |
 | [vsearch-pipeline](https://github.com/yumyai/vsearchpipeline) | analysis pipeline|
+| [demo]( http://techumya.net:6464/app/) | demo |
