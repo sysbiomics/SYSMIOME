@@ -7,6 +7,6 @@ SYSMIOME amplicon management platform.
 
 | Package | Description |
 | - | - |
-| [sysbiome-dash](https://github.com/sysbiomics/sysbiome-serve/) | Dashboard |
+| [sysbiome-serve](https://github.com/sysbiomics/sysbiome-serve/) | Dashboard |
 | [sysbiome-tower](https://github.com/sysbiomics/sysbiome-tower/)  | Backend |
 | [vsearch-pipeline](https://github.com/yumyai/vsearchpipeline) | analysis pipeline|
