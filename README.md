@@ -1,6 +1,5 @@
-# SYSMIOME
-SYSMIOME amplicon management platform.
-
+# SYSMIOME toolbox
+SYSMIOME toolbox, a web-based platform designed to integrate continuously clinical data with microbiome sequencing  
 
 
 ### Packages
